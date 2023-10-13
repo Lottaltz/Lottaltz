@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Kridchasorn Pramsrilo
 - 🤩 But, You can call me Lotta
 - 🇹🇭 I'm Thai. (Live in Thailand too)
-- 👀 I’m interested in software and web development
+- 👀 I’m interested in software development, web development, machine learning, network and cyber security.
 - 👩🏻‍💻 I'm trying to learn by myself from anywhere in online (I've just started for 4 months ago)
 - 🌱 I’m currently learning MERN Stack on Junior Software Develper Bootcamp by Generation ThaiLand
 - 💞️ I’m looking for an opportunity to be a part of this world !

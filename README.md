@@ -13,8 +13,7 @@
 - 🗽 I always love to learn new things for getting my goals
 - 🙇‍♀️ Nice to Meet you all! 
 - 📫 How to reach me
-  - [My Website]()
-  - [Instagram]()
+  - [My Website](kridchasorn-portfolio.vercel.app)
   - [Linkedin](https://www.linkedin.com/in/kridchasorn-pramsrilo-work)
 
 <!---
